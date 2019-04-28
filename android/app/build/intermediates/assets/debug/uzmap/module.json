@@ -1,0 +1,12 @@
+{
+	"modules":[
+		{
+			"name":"moblinkpro",
+			"class":"com.mob.moblinkpro.MobLinkPro"
+		},
+		{
+			"name":"moblinkApplication",
+			"class":"com.mob.moblinkpro.Appliction"
+		}
+	]
+}
