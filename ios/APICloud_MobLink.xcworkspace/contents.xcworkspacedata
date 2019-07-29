@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../../../../../System/Volumes/Data/Users/sandslee/Desktop/MobLink-For-APICloud/iOS/MobLinkPlus/MobLinkPlus.xcodeproj">
+      location = "group:../../../../../System/Volumes/Data/Users/sandslee/Desktop/APICloud-For-MobLink/iOS/MobLinkPlus/MobLinkPlus.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../../../../../System/Volumes/Data/Users/sandslee/Desktop/MobLink-For-APICloud/iOS/Sample/UZApp.xcodeproj">
+      location = "group:../../../../../System/Volumes/Data/Users/sandslee/Desktop/APICloud-For-MobLink/iOS/Sample/UZApp.xcodeproj">
    </FileRef>
 </Workspace>
