@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\APICloud\\ModulesDevProject_Android\\androidstudio\\APICloudModuleSDK\\moduleScrollPicture\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "D:\\APICloud\\ModulesDevProject_Android\\androidstudio\\APICloudModuleSDK\\moduleScrollPicture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 56,
+                        "endOffset": 69
+                    }
+                }
+            }
+        ]
+    }
+]
